@@ -1,6 +1,6 @@
 # Run macOS Catalina on Asus Zenbook 15-UX534 10th Intel with OpenCore
 
-FI OpenCore: https://yadi.sk/d/wp5yCtlWOoIf4g
+EFI OpenCore: https://yadi.sk/d/wp5yCtlWOoIf4g
 
 Config.plist: https://yadi.sk/d/2LF5BxOYGuGQqA
 
