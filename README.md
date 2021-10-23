@@ -1,6 +1,6 @@
 # UPD: macOS Monterey on ASUS ZenBook 15 UX534FTC 10th Intel
 
-EFI OpenCore for Install macOS: https://disk.yandex.ru/d/QiFt-_G_xncJkQ
+EFI OpenCore for Install macOS Monterey: https://disk.yandex.ru/d/QiFt-_G_xncJkQ
 
 EFI Postinstall: https://disk.yandex.ru/d/2-xxW1JD_-6MWw
 
