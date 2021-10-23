@@ -1,10 +1,16 @@
-# Run macOS Catalina on Asus Zenbook 15-UX534F 10th Intel with OpenCore
+# UPD: macOS Monterey on ASUS ZenBook 15 UX534FTC 10th Intel
 
-EFI OpenCore: https://yadi.sk/d/wp5yCtlWOoIf4g
+EFI OpenCore for Install macOS: https://disk.yandex.ru/d/QiFt-_G_xncJkQ
 
-Config.plist: https://yadi.sk/d/2LF5BxOYGuGQqA
+EFI Postinstall: https://disk.yandex.ru/d/2-xxW1JD_-6MWw
+
+EFI Postinstall: SreenPad ON: https://disk.yandex.ru/d/9O42QHZKPIvf8g
+
+EFI OpenCore 0.7.4 Monterey: https://disk.yandex.ru/d/OR2tDCynfNBkZQ
 
 Intel WiFi Client - HeliPort: https://github.com/OpenIntelWireless/HeliPort
+
+Video: https://www.reddit.com/r/hackintosh/comments/ohi0ac/work_in_progress/
 
 BIOS:
 
